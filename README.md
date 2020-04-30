@@ -16,7 +16,7 @@ Here we publish open source aspects of the project, links, ebook code etc.
 
 The team members are Mikael Kindborg and Gösta Lindwall. We have a background in research, computer programming, and visual communication.
 
-## Michael Cremo and the computer analogy
+## Michael Cremo and the Computer Analogy
 
 - Consciousness (User)
 - Mind (Software)
